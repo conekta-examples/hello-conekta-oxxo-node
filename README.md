@@ -13,6 +13,9 @@ $ git clone https://github.com/conekta-examples/hello-conekta-oxxo-node
 $ cd hello-conekta-oxxo-node
 $ npm install
 ```
+
+change your secret key on [`keys.json`](https://github.com/conekta-examples/hello-conekta-card-node/blob/master/keys.json)
+
 ## Run
 
 ```sh
